@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array04/Array04.iml" filepath="$PROJECT_DIR$/Array04/Array04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections05/Collections05.iml" filepath="$PROJECT_DIR$/Collections05/Collections05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data07/Data07.iml" filepath="$PROJECT_DIR$/Data07/Data07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP06/OOP06.iml" filepath="$PROJECT_DIR$/OOP06/OOP06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP08/OOP08.iml" filepath="$PROJECT_DIR$/OOP08/OOP08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operator03/Operator03.iml" filepath="$PROJECT_DIR$/Operator03/Operator03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Type02/Type02.iml" filepath="$PROJECT_DIR$/Type02/Type02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Welcome01/Welcome01.iml" filepath="$PROJECT_DIR$/Welcome01/Welcome01.iml" />
+    </modules>
+  </component>
+</project>
